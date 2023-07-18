@@ -12,7 +12,7 @@ The back-end database has been purposed towards e-commerce websites using Expres
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
 - [License](#License)
-
+- [questions](#questions)
 
 # Overview
 
@@ -45,6 +45,14 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Object-Relational Mapping (ORM): E-Commerce Back End 
 [Click Here to Watch] (https://drive.google.com/file/d/1bii3ZT-7_KyGnlzixoESrtNtR48bJlsN/view)
 
+## Screenshots
+### Image 1.MySQL shell
+![](./public/image/Mysql%20sell.GIF)
+### Image 2.Npm run seed
+![](./public/image/npm%20run%20seed.GIF)
+### Image 3.npm start
+![](./public/image/npm%20start.GIF)
+
 ## Installation Process
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
 2. Open the cloned (or downloaded) repository in any source code editor.
@@ -69,3 +77,14 @@ THEN I am able to successfully create, update, and delete data in my database
 1. How to use Express.js to create a functional back end for an e-commerce website.
 2. How to connect to a MySQL database using Sequelize and update environment variable files accordingly.
 3. How to generate a development database with test data using schema and seed commands.
+
+## License & Copyright ©
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
+
+## Questions
+
+For additional questions, you can reach me through:
+
+- GitHub: [jaldhara21](https://github.com/jaldhara21)
+- Email: jaldharapatel91@gmail.com
